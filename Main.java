@@ -40,8 +40,6 @@ public class Main {
         
         System.out.println("Luas Sebelum Diperbesar = "+li.luas);
         System.out.println("Keliling Sebelum Diperbesar = "+li.keliling);
-        
-        li.perkecil();
-        
     }   
 }
+
